@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Überschrift
     features:
       - title: Unterüberschrift 1
         content: >-
